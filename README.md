@@ -5,10 +5,8 @@ Hi!👋 I'm Matías Alvarez. I am studying Computer Engineering at UADE in Argen
 - Data Science with Python
 
 🌐 **I can communicate in:**
-- 
-English
-- 
-Spanish
+- English
+- Spanish
 
 <h4 align="left">👨🏼💻Languages and Tools:</h4>
 
